@@ -16,7 +16,7 @@
       }
     </style>
     <link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css" />
-    <script src="https://aoc.truecorp.co.th/sdk/aoc-sdk-js.js"></script>
+    <script src="https://aoc-stg.truecorp.co.th/sdk/aoc-sdk-js.js"></script>
     <script src="./cp-functions.js"></script>
     <title>CP Front</title>
   </head>
